@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am currently an undergraduate at The German University In Cairo, majoring Computer Science and Engineering, graduating 2024.<br><br>I am an intern in LEGO Asset Management, a start-up company starting in Egypt.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iAdam2431#0096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-abouelmagd-b90387228/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCR04LZ1DKgQzoihvbKnGbRQ) 
 
